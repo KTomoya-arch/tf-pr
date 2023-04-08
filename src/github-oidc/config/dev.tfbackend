@@ -1,0 +1,2 @@
+bucket = "dev-tomoya-oidc-terraform-backend"
+prefix = "tfstate"
