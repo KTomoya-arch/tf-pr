@@ -1,4 +1,4 @@
-resource "google_compute_instance" "linux_test" {
+/* resource "google_compute_instance" "linux_test" {
   name         = "linux-test"
   machine_type = "e2-micro"
   zone         = "asia-northeast1-a"
@@ -27,4 +27,4 @@ resource "google_compute_instance" "linux_test" {
       "https://www.googleapis.com/auth/trace.append",
     ]
   }
-}
+} */
